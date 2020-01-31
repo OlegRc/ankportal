@@ -55,7 +55,7 @@ class MainPageViewController: UITableViewController {
         navigationController?.navigationBar.barTintColor = UIColor.ankPurple
         navigationController?.navigationBar.tintColor = UIColor.black
         
-        navigationItem.title = "Академия Научной Красоты"
+        navigationItem.title = "Академия Научной Красоты123"
         
         let attributesForSmallTitle: [NSAttributedString.Key: Any] = [
             NSAttributedString.Key.font: UIFont.defaultFont(ofSize: 18) as Any,
